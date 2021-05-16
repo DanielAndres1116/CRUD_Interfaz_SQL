@@ -25,7 +25,7 @@ En cambio, si la base de datos ya existem saldrá una ventana emergente indicand
 
 Mediante la aplicación del DBBrowser es posible ver la estructura de la base de datos creada:
 
-![image](https://user-images.githubusercontent.com/43154438/118383619-378b6880-b5c5-11eb-9038-f6288798d5f3.png)
+![image](https://user-images.githubusercontent.com/43154438/118385567-85a86800-b5d5-11eb-8c3c-d23fa2905a28.png)
 
 Como se puede observar existen 6 campos: ID, NOMBRE_USUARIO, PASSWORD, APELLIDO, DIRECCIÓN Y COMENTARIOS. 
 
@@ -39,7 +39,7 @@ Es en la pestaña que dice "CRUD" donde se tienen las opciones de Crear, LEer, A
 
 A medida que se van creando los datos así se va modificando la base de datos. 
 
-![image](https://user-images.githubusercontent.com/43154438/118383786-cb116900-b5c6-11eb-8ddf-a6971336b299.png)
+![image](https://user-images.githubusercontent.com/43154438/118385578-af618f00-b5d5-11eb-9531-dae06a4a3e28.png)
 
 Del mismo modo en que se crea el dato, puede leerse poniendo meramente el ID del usuario en el recuadro de ID, dandole click en "Leer" en la pestaña desplegable de CRUD y los datos aparecerán en los cuadros de texto. 
 
