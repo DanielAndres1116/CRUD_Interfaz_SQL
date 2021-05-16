@@ -39,7 +39,7 @@ Es en la pestaña que dice "CRUD" donde se tienen las opciones de Crear, LEer, A
 
 A medida que se van creando , borrando y actualizando los datos, así se va modificando la base de datos: 
 
-![image](https://user-images.githubusercontent.com/43154438/118385578-af618f00-b5d5-11eb-9531-dae06a4a3e28.png)
+![image](https://user-images.githubusercontent.com/43154438/118385743-52ff6f00-b5d7-11eb-903b-730703101ebe.png)
 
 Del mismo modo en que se crea el dato, puede leerse poniendo meramente el ID del usuario en el recuadro de ID, dandole click en "Leer" en la pestaña desplegable de CRUD y los datos aparecerán en los cuadros de texto. 
 
