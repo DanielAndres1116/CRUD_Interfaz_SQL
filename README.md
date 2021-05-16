@@ -37,7 +37,7 @@ Es en la pestaña que dice "CRUD" donde se tienen las opciones de Crear, LEer, A
 
 ![image](https://user-images.githubusercontent.com/43154438/118383735-47f01300-b5c6-11eb-9d2d-3f15e0cb6bc1.png)
 
-A medida que se van creando los datos así se va modificando la base de datos. 
+A medida que se van creando , borrando y actualizando los datos, así se va modificando la base de datos: 
 
 ![image](https://user-images.githubusercontent.com/43154438/118385578-af618f00-b5d5-11eb-9531-dae06a4a3e28.png)
 
